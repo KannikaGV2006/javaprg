@@ -26,3 +26,4 @@ patient1.sethospital("Anita Joseph",101);
 System.out.println("The patient" +patient1.getpatientName()+" With the Id"+patient1.getpatientid()+" is treated by" +patient1.DocName+"at"+hospitalName);
 }
 }
+
